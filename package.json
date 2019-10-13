@@ -1,0 +1,22 @@
+{
+  "name": "stringconcat",
+  "version": "1.0.0",
+  "description": "Add strings together",
+  "homepage": "https://github.com/fizzbuzz-npm/stringconcat",
+  "repository": "github:fizzbuzz-npm/stringconcat",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint index.js",
+    "lint-fix": "eslint --fix index.js",
+    "test": "ava"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^2.4.0",
+    "eslint": "^6.5.1"
+  },
+  "dependencies": {
+    "to-str": "^1.0.0"
+  }
+}
