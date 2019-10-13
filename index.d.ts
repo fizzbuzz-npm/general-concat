@@ -1,3 +1,3 @@
-declare const word: string;
+declare const concat: (...args) => string;
 
-export = word;
+export = concat;

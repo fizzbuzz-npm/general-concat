@@ -1,9 +1,9 @@
 {
-  "name": "stringconcat",
+  "name": "general-concat",
   "version": "1.0.0",
   "description": "Add strings together",
-  "homepage": "https://github.com/fizzbuzz-npm/stringconcat",
-  "repository": "github:fizzbuzz-npm/stringconcat",
+  "homepage": "https://github.com/fizzbuzz-npm/general-concat",
+  "repository": "github:fizzbuzz-npm/general-concat",
   "main": "index.js",
   "scripts": {
     "lint": "eslint index.js",
